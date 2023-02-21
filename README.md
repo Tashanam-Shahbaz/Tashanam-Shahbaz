@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Full Stack Developer<br>👯 I’m looking to collaborate on Machine Learning , NLP ,Computer Vision Projects.<br>🤝 I’m looking for help with<br>🌱 I’m currently learning AngularJS and C#.<br>💬 Ask me about Artificial Intelligence and Data Science<br>⚡ Fun fact: Did you know , "Simplicity is the ultimate Sophistication."
+🔭 I’m currently working as Full Stack Developer<br>👯 I’m looking to collaborate on Machine Learning , NLP and Computer Vision Projects.<br>🌱 I’m currently learning AngularJS and C#.<br>💬 Ask me about Artificial Intelligence and Data Science<br>⚡ Fun fact: Did you know , "Simplicity is the ultimate Sophistication."
 
 
 ## 🌐 Socials:
