@@ -38,9 +38,11 @@ Feel free to reach out if you’re interested in collaborating or just want to c
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Tashanam-Shahbaz&theme=default&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Tashanam-Shahbaz&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tashanam-Shahbaz&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tashanam-Shahbaz&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tashanam-Shahbaz&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tashanam-Shahbaz&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tashanam-Shahbaz&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tashanam-Shahbaz&theme=aura_dark&utcOffset=8)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Tashanam-Shahbaz&limit=5&theme=default&combine_all_yearly_contributions=true)
